@@ -1,0 +1,600 @@
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 10:51:15
+The time for which the traffic light turns green is: 46.42 seconds
+No. of buses left after the signal has gone red again: 0
+No. of cars left after the signal has gone red again: 0
+No. of two wheelers left after the signal has gone red again: 0
+No. of autos left after the signal has gone red again: 0
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 10:54:21
+The time for which the traffic light turns green is: 50.0 seconds
+No. of buses left after the signal has gone red again: 6
+No. of cars left after the signal has gone red again: 1
+No. of two wheelers left after the signal has gone red again: 0
+No. of autos left after the signal has gone red again: 0
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 10:57:52
+The time for which the traffic light turns green is: 50.0 seconds
+No. of buses left after the signal has gone red again: 3
+No. of cars left after the signal has gone red again: 3
+No. of two wheelers left after the signal has gone red again: 2
+No. of autos left after the signal has gone red again: 7
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 11:01:33
+The time for which the traffic light turns green is: 90.0 seconds
+No. of buses left after the signal has gone red again: 5
+No. of cars left after the signal has gone red again: 2
+No. of two wheelers left after the signal has gone red again: 4
+No. of autos left after the signal has gone red again: 2
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 11:06:24
+The time for which the traffic light turns green is: 90.0 seconds
+No. of buses left after the signal has gone red again: 7
+No. of cars left after the signal has gone red again: 1
+No. of two wheelers left after the signal has gone red again: 1
+No. of autos left after the signal has gone red again: 1
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 11:10:18
+The time for which the traffic light turns green is: 60.0 seconds
+No. of buses left after the signal has gone red again: 4
+No. of cars left after the signal has gone red again: 1
+No. of two wheelers left after the signal has gone red again: 4
+No. of autos left after the signal has gone red again: 6
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 11:13:58
+The time for which the traffic light turns green is: 70.0 seconds
+No. of buses left after the signal has gone red again: 7
+No. of cars left after the signal has gone red again: 4
+No. of two wheelers left after the signal has gone red again: 7
+No. of autos left after the signal has gone red again: 3
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 11:18:32
+The time for which the traffic light turns green is: 70.0 seconds
+No. of buses left after the signal has gone red again: 4
+No. of cars left after the signal has gone red again: 13
+No. of two wheelers left after the signal has gone red again: 5
+No. of autos left after the signal has gone red again: 9
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 11:23:03
+The time for which the traffic light turns green is: 70.0 seconds
+No. of buses left after the signal has gone red again: 12
+No. of cars left after the signal has gone red again: 5
+No. of two wheelers left after the signal has gone red again: 6
+No. of autos left after the signal has gone red again: 2
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 11:27:04
+The time for which the traffic light turns green is: 90.0 seconds
+No. of buses left after the signal has gone red again: 7
+No. of cars left after the signal has gone red again: 1
+No. of two wheelers left after the signal has gone red again: 5
+No. of autos left after the signal has gone red again: 6
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 11:31:25
+The time for which the traffic light turns green is: 60.0 seconds
+No. of buses left after the signal has gone red again: 2
+No. of cars left after the signal has gone red again: 5
+No. of two wheelers left after the signal has gone red again: 3
+No. of autos left after the signal has gone red again: 1
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 11:35:56
+The time for which the traffic light turns green is: 60.0 seconds
+No. of buses left after the signal has gone red again: 3
+No. of cars left after the signal has gone red again: 1
+No. of two wheelers left after the signal has gone red again: 1
+No. of autos left after the signal has gone red again: 5
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 11:40:16
+The time for which the traffic light turns green is: 70.0 seconds
+No. of buses left after the signal has gone red again: 4
+No. of cars left after the signal has gone red again: 5
+No. of two wheelers left after the signal has gone red again: 8
+No. of autos left after the signal has gone red again: 4
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 11:44:17
+The time for which the traffic light turns green is: 70.0 seconds
+No. of buses left after the signal has gone red again: 10
+No. of cars left after the signal has gone red again: 3
+No. of two wheelers left after the signal has gone red again: 10
+No. of autos left after the signal has gone red again: 6
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 11:48:58
+The time for which the traffic light turns green is: 70.0 seconds
+No. of buses left after the signal has gone red again: 4
+No. of cars left after the signal has gone red again: 12
+No. of two wheelers left after the signal has gone red again: 8
+No. of autos left after the signal has gone red again: 6
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 11:52:49
+The time for which the traffic light turns green is: 60.0 seconds
+No. of buses left after the signal has gone red again: 3
+No. of cars left after the signal has gone red again: 0
+No. of two wheelers left after the signal has gone red again: 6
+No. of autos left after the signal has gone red again: 6
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 11:56:40
+The time for which the traffic light turns green is: 60.0 seconds
+No. of buses left after the signal has gone red again: 3
+No. of cars left after the signal has gone red again: 5
+No. of two wheelers left after the signal has gone red again: 6
+No. of autos left after the signal has gone red again: 3
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 12:00:21
+The time for which the traffic light turns green is: 60.0 seconds
+No. of buses left after the signal has gone red again: 8
+No. of cars left after the signal has gone red again: 2
+No. of two wheelers left after the signal has gone red again: 7
+No. of autos left after the signal has gone red again: 1
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 12:04:11
+The time for which the traffic light turns green is: 70.0 seconds
+No. of buses left after the signal has gone red again: 8
+No. of cars left after the signal has gone red again: 9
+No. of two wheelers left after the signal has gone red again: 3
+No. of autos left after the signal has gone red again: 6
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 12:42:08
+The time for which the traffic light turns green is: 26.82 seconds
+No. of buses left after the signal has gone red again: 0
+No. of cars left after the signal has gone red again: 0
+No. of two wheelers left after the signal has gone red again: 0
+No. of autos left after the signal has gone red again: 0
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 12:45:05
+The time for which the traffic light turns green is: 50.0 seconds
+No. of buses left after the signal has gone red again: 3
+No. of cars left after the signal has gone red again: 1
+No. of two wheelers left after the signal has gone red again: 3
+No. of autos left after the signal has gone red again: 4
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 12:52:12
+The time for which the traffic light turns green is: 38.49 seconds
+No. of buses left after the signal has gone red again: 0
+No. of cars left after the signal has gone red again: 0
+No. of two wheelers left after the signal has gone red again: 0
+No. of autos left after the signal has gone red again: 0
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 12:55:30
+The time for which the traffic light turns green is: 49.099999999999994 seconds
+No. of buses left after the signal has gone red again: 0
+No. of cars left after the signal has gone red again: 0
+No. of two wheelers left after the signal has gone red again: 0
+No. of autos left after the signal has gone red again: 0
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 12:59:10
+The time for which the traffic light turns green is: 42.17 seconds
+No. of buses left after the signal has gone red again: 0
+No. of cars left after the signal has gone red again: 0
+No. of two wheelers left after the signal has gone red again: 0
+No. of autos left after the signal has gone red again: 0
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 13:02:22
+The time for which the traffic light turns green is: 60.0 seconds
+No. of buses left after the signal has gone red again: 5
+No. of cars left after the signal has gone red again: 6
+No. of two wheelers left after the signal has gone red again: 1
+No. of autos left after the signal has gone red again: 1
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 13:06:09
+The time for which the traffic light turns green is: 90.0 seconds
+No. of buses left after the signal has gone red again: 6
+No. of cars left after the signal has gone red again: 5
+No. of two wheelers left after the signal has gone red again: 1
+No. of autos left after the signal has gone red again: 6
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 13:10:29
+The time for which the traffic light turns green is: 90.0 seconds
+No. of buses left after the signal has gone red again: 4
+No. of cars left after the signal has gone red again: 6
+No. of two wheelers left after the signal has gone red again: 6
+No. of autos left after the signal has gone red again: 1
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 13:14:59
+The time for which the traffic light turns green is: 50.0 seconds
+No. of buses left after the signal has gone red again: 1
+No. of cars left after the signal has gone red again: 2
+No. of two wheelers left after the signal has gone red again: 4
+No. of autos left after the signal has gone red again: 1
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 13:18:50
+The time for which the traffic light turns green is: 60.0 seconds
+No. of buses left after the signal has gone red again: 9
+No. of cars left after the signal has gone red again: 5
+No. of two wheelers left after the signal has gone red again: 3
+No. of autos left after the signal has gone red again: 4
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 13:23:01
+The time for which the traffic light turns green is: 70.0 seconds
+No. of buses left after the signal has gone red again: 0
+No. of cars left after the signal has gone red again: 8
+No. of two wheelers left after the signal has gone red again: 10
+No. of autos left after the signal has gone red again: 9
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 13:27:21
+The time for which the traffic light turns green is: 70.0 seconds
+No. of buses left after the signal has gone red again: 5
+No. of cars left after the signal has gone red again: 2
+No. of two wheelers left after the signal has gone red again: 3
+No. of autos left after the signal has gone red again: 6
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 13:32:32
+The time for which the traffic light turns green is: 60.0 seconds
+No. of buses left after the signal has gone red again: 5
+No. of cars left after the signal has gone red again: 4
+No. of two wheelers left after the signal has gone red again: 0
+No. of autos left after the signal has gone red again: 3
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 13:36:42
+The time for which the traffic light turns green is: 60.0 seconds
+No. of buses left after the signal has gone red again: 2
+No. of cars left after the signal has gone red again: 2
+No. of two wheelers left after the signal has gone red again: 6
+No. of autos left after the signal has gone red again: 4
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 13:40:33
+The time for which the traffic light turns green is: 60.0 seconds
+No. of buses left after the signal has gone red again: 1
+No. of cars left after the signal has gone red again: 4
+No. of two wheelers left after the signal has gone red again: 2
+No. of autos left after the signal has gone red again: 3
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 13:44:43
+The time for which the traffic light turns green is: 50.0 seconds
+No. of buses left after the signal has gone red again: 2
+No. of cars left after the signal has gone red again: 2
+No. of two wheelers left after the signal has gone red again: 5
+No. of autos left after the signal has gone red again: 0
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 13:48:34
+The time for which the traffic light turns green is: 60.0 seconds
+No. of buses left after the signal has gone red again: 3
+No. of cars left after the signal has gone red again: 1
+No. of two wheelers left after the signal has gone red again: 4
+No. of autos left after the signal has gone red again: 1
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 13:54:05
+The time for which the traffic light turns green is: 90.0 seconds
+No. of buses left after the signal has gone red again: 3
+No. of cars left after the signal has gone red again: 5
+No. of two wheelers left after the signal has gone red again: 2
+No. of autos left after the signal has gone red again: 6
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 13:58:36
+The time for which the traffic light turns green is: 60.0 seconds
+No. of buses left after the signal has gone red again: 5
+No. of cars left after the signal has gone red again: 4
+No. of two wheelers left after the signal has gone red again: 4
+No. of autos left after the signal has gone red again: 7
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 14:03:36
+The time for which the traffic light turns green is: 70.0 seconds
+No. of buses left after the signal has gone red again: 4
+No. of cars left after the signal has gone red again: 8
+No. of two wheelers left after the signal has gone red again: 2
+No. of autos left after the signal has gone red again: 7
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 14:07:49
+The time for which the traffic light turns green is: 60.0 seconds
+No. of buses left after the signal has gone red again: 5
+No. of cars left after the signal has gone red again: 5
+No. of two wheelers left after the signal has gone red again: 8
+No. of autos left after the signal has gone red again: 2
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 14:11:44
+The time for which the traffic light turns green is: 90.0 seconds
+No. of buses left after the signal has gone red again: 3
+No. of cars left after the signal has gone red again: 5
+No. of two wheelers left after the signal has gone red again: 5
+No. of autos left after the signal has gone red again: 2
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 14:16:00
+The time for which the traffic light turns green is: 60.0 seconds
+No. of buses left after the signal has gone red again: 2
+No. of cars left after the signal has gone red again: 4
+No. of two wheelers left after the signal has gone red again: 0
+No. of autos left after the signal has gone red again: 3
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 14:20:21
+The time for which the traffic light turns green is: 60.0 seconds
+No. of buses left after the signal has gone red again: 5
+No. of cars left after the signal has gone red again: 6
+No. of two wheelers left after the signal has gone red again: 4
+No. of autos left after the signal has gone red again: 1
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 14:24:21
+The time for which the traffic light turns green is: 60.0 seconds
+No. of buses left after the signal has gone red again: 5
+No. of cars left after the signal has gone red again: 6
+No. of two wheelers left after the signal has gone red again: 1
+No. of autos left after the signal has gone red again: 8
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 14:28:01
+The time for which the traffic light turns green is: 70.0 seconds
+No. of buses left after the signal has gone red again: 7
+No. of cars left after the signal has gone red again: 4
+No. of two wheelers left after the signal has gone red again: 12
+No. of autos left after the signal has gone red again: 3
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 14:32:08
+The time for which the traffic light turns green is: 70.0 seconds
+No. of buses left after the signal has gone red again: 12
+No. of cars left after the signal has gone red again: 2
+No. of two wheelers left after the signal has gone red again: 3
+No. of autos left after the signal has gone red again: 8
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 14:35:52
+The time for which the traffic light turns green is: 60.0 seconds
+No. of buses left after the signal has gone red again: 3
+No. of cars left after the signal has gone red again: 5
+No. of two wheelers left after the signal has gone red again: 0
+No. of autos left after the signal has gone red again: 4
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 14:39:03
+The time for which the traffic light turns green is: 50.0 seconds
+No. of buses left after the signal has gone red again: 5
+No. of cars left after the signal has gone red again: 0
+No. of two wheelers left after the signal has gone red again: 0
+No. of autos left after the signal has gone red again: 2
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 14:42:34
+The time for which the traffic light turns green is: 60.0 seconds
+No. of buses left after the signal has gone red again: 9
+No. of cars left after the signal has gone red again: 7
+No. of two wheelers left after the signal has gone red again: 3
+No. of autos left after the signal has gone red again: 6
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 14:46:36
+The time for which the traffic light turns green is: 60.0 seconds
+No. of buses left after the signal has gone red again: 7
+No. of cars left after the signal has gone red again: 5
+No. of two wheelers left after the signal has gone red again: 3
+No. of autos left after the signal has gone red again: 3
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 14:50:13
+The time for which the traffic light turns green is: 50.0 seconds
+No. of buses left after the signal has gone red again: 2
+No. of cars left after the signal has gone red again: 4
+No. of two wheelers left after the signal has gone red again: 2
+No. of autos left after the signal has gone red again: 1
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 14:53:53
+The time for which the traffic light turns green is: 63.980000000000004 seconds
+No. of buses left after the signal has gone red again: 0
+No. of cars left after the signal has gone red again: 0
+No. of two wheelers left after the signal has gone red again: 0
+No. of autos left after the signal has gone red again: 0
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 14:57:47
+The time for which the traffic light turns green is: 25.720000000000002 seconds
+No. of buses left after the signal has gone red again: 0
+No. of cars left after the signal has gone red again: 0
+No. of two wheelers left after the signal has gone red again: 0
+No. of autos left after the signal has gone red again: 0
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 15:01:42
+The time for which the traffic light turns green is: 50.0 seconds
+No. of buses left after the signal has gone red again: 2
+No. of cars left after the signal has gone red again: 0
+No. of two wheelers left after the signal has gone red again: 2
+No. of autos left after the signal has gone red again: 1
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 15:05:12
+The time for which the traffic light turns green is: 60.0 seconds
+No. of buses left after the signal has gone red again: 3
+No. of cars left after the signal has gone red again: 1
+No. of two wheelers left after the signal has gone red again: 4
+No. of autos left after the signal has gone red again: 1
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 15:14:05
+The time for which the traffic light turns green is: 50.0 seconds
+No. of buses left after the signal has gone red again: 3
+No. of cars left after the signal has gone red again: 4
+No. of two wheelers left after the signal has gone red again: 1
+No. of autos left after the signal has gone red again: 4
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 15:33:48
+The time for which the traffic light turns green is: 60.0 seconds
+No. of buses left after the signal has gone red again: 1
+No. of cars left after the signal has gone red again: 7
+No. of two wheelers left after the signal has gone red again: 0
+No. of autos left after the signal has gone red again: 4
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 15:37:35
+The time for which the traffic light turns green is: 50.0 seconds
+No. of buses left after the signal has gone red again: 3
+No. of cars left after the signal has gone red again: 4
+No. of two wheelers left after the signal has gone red again: 2
+No. of autos left after the signal has gone red again: 1
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 15:41:00
+The time for which the traffic light turns green is: 60.0 seconds
+No. of buses left after the signal has gone red again: 1
+No. of cars left after the signal has gone red again: 1
+No. of two wheelers left after the signal has gone red again: 3
+No. of autos left after the signal has gone red again: 4
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 15:45:01
+The time for which the traffic light turns green is: 60.0 seconds
+No. of buses left after the signal has gone red again: 3
+No. of cars left after the signal has gone red again: 7
+No. of two wheelers left after the signal has gone red again: 7
+No. of autos left after the signal has gone red again: 1
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 15:49:22
+The time for which the traffic light turns green is: 90.0 seconds
+No. of buses left after the signal has gone red again: 0
+No. of cars left after the signal has gone red again: 10
+No. of two wheelers left after the signal has gone red again: 0
+No. of autos left after the signal has gone red again: 2
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 15:53:42
+The time for which the traffic light turns green is: 60.0 seconds
+No. of buses left after the signal has gone red again: 9
+No. of cars left after the signal has gone red again: 4
+No. of two wheelers left after the signal has gone red again: 4
+No. of autos left after the signal has gone red again: 1
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 15:57:32
+The time for which the traffic light turns green is: 60.0 seconds
+No. of buses left after the signal has gone red again: 5
+No. of cars left after the signal has gone red again: 2
+No. of two wheelers left after the signal has gone red again: 4
+No. of autos left after the signal has gone red again: 3
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 16:02:03
+The time for which the traffic light turns green is: 50.0 seconds
+No. of buses left after the signal has gone red again: 5
+No. of cars left after the signal has gone red again: 1
+No. of two wheelers left after the signal has gone red again: 1
+No. of autos left after the signal has gone red again: 4
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 16:05:53
+The time for which the traffic light turns green is: 90.0 seconds
+No. of buses left after the signal has gone red again: 8
+No. of cars left after the signal has gone red again: 4
+No. of two wheelers left after the signal has gone red again: 6
+No. of autos left after the signal has gone red again: 4
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 16:10:44
+The time for which the traffic light turns green is: 70.0 seconds
+No. of buses left after the signal has gone red again: 7
+No. of cars left after the signal has gone red again: 11
+No. of two wheelers left after the signal has gone red again: 12
+No. of autos left after the signal has gone red again: 7
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 16:15:34
+The time for which the traffic light turns green is: 70.0 seconds
+No. of buses left after the signal has gone red again: 10
+No. of cars left after the signal has gone red again: 3
+No. of two wheelers left after the signal has gone red again: 7
+No. of autos left after the signal has gone red again: 9
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 16:20:05
+The time for which the traffic light turns green is: 70.0 seconds
+No. of buses left after the signal has gone red again: 8
+No. of cars left after the signal has gone red again: 7
+No. of two wheelers left after the signal has gone red again: 8
+No. of autos left after the signal has gone red again: 5
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 16:24:35
+The time for which the traffic light turns green is: 90.0 seconds
+No. of buses left after the signal has gone red again: 8
+No. of cars left after the signal has gone red again: 12
+No. of two wheelers left after the signal has gone red again: 12
+No. of autos left after the signal has gone red again: 7
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 16:29:26
+The time for which the traffic light turns green is: 90.0 seconds
+No. of buses left after the signal has gone red again: 10
+No. of cars left after the signal has gone red again: 3
+No. of two wheelers left after the signal has gone red again: 10
+No. of autos left after the signal has gone red again: 17
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 16:34:23
+The time for which the traffic light turns green is: 60.0 seconds
+No. of buses left after the signal has gone red again: 3
+No. of cars left after the signal has gone red again: 3
+No. of two wheelers left after the signal has gone red again: 2
+No. of autos left after the signal has gone red again: 8
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 16:38:23
+The time for which the traffic light turns green is: 57.99 seconds
+No. of buses left after the signal has gone red again: 0
+No. of cars left after the signal has gone red again: 0
+No. of two wheelers left after the signal has gone red again: 0
+No. of autos left after the signal has gone red again: 0
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 16:41:54
+The time for which the traffic light turns green is: 64.73 seconds
+No. of buses left after the signal has gone red again: 0
+No. of cars left after the signal has gone red again: 0
+No. of two wheelers left after the signal has gone red again: 0
+No. of autos left after the signal has gone red again: 0
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 16:45:40
+The time for which the traffic light turns green is: 50.0 seconds
+No. of buses left after the signal has gone red again: 2
+No. of cars left after the signal has gone red again: 2
+No. of two wheelers left after the signal has gone red again: 3
+No. of autos left after the signal has gone red again: 1
+
+
+The date at which the reading was taken and the time at which the traffic light turned green: 12/07/2019 16:49:38
+The time for which the traffic light turns green is: 50.0 seconds
+No. of buses left after the signal has gone red again: 5
+No. of cars left after the signal has gone red again: 1
+No. of two wheelers left after the signal has gone red again: 3
+No. of autos left after the signal has gone red again: 4
+
+
